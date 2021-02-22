@@ -558,6 +558,7 @@ You can see in which language an app is written. Currently there are following l
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS app for organizing files or removing unnecessary files.  ![swift_icon] 
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar.  ![swift_icon] 
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.  ![javascript_icon] 
+- [Clendar](https:/ggithub.com/vinhnx) - Clendar is an universal calendar app. Written in SwiftUI. ![swift_icon]
 
 ### Screensaver
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS.  ![swift_icon] 

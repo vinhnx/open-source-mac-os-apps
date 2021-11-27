@@ -621,6 +621,7 @@ You can see in which language an app is written. Currently there are following l
 - [reventlou](https://github.com/b3z/reventlou) - Personal database as an information management system. ![typescript_icon] ![swift_icon] 
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar.  ![swift_icon] 
 - [stretchly](https://github.com/hovancik/stretchly) - Cross-platform electron app that reminds you to take breaks when working with computer.  ![javascript_icon] 
+- [Clendar](https://github.com/vinhnx/Clendar) - Clendar - universal calendar app. Written in SwiftUI. ![swift_icon]
 
 ### Screensaver
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS.  ![swift_icon] 
